@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "226650592573",
+    "project_id": "scavenger-hunt-8d0fa",
+    "storage_bucket": "scavenger-hunt-8d0fa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226650592573:android:c8d345b53987795678e154",
+        "android_client_info": {
+          "package_name": "com.example.scavenger_hunt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIlwj0nSCgCMHkAbnGhQ1d2I5x66dH5AE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
